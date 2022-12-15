@@ -7,10 +7,10 @@ The purpose of this analysis was to determine the success or failure of Kickstar
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 The analysis was performed by using Excel functions to chart the outcomes of theater campaigns based on launch date to find the distribution of failed, successful, and canceled campaigns. A line chart was then created as a visual to easily display the percentages of outcomes for each month.
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 The analysis was performed by using Excel functions to chart the outcomes of theater campaigns based on the amount of the stated Kickstarter goal. The pledged goals were broken up into 12 goal subcategories, with the less than $1000 pledged category starting first and aso having the highest percentage of successful campaigns. A line chart of this data was then created to show the percentage of failed, successful, and canceled campaings relative to how much money the stated Kickstarter goal was.
 ### Challenges and Difficulties Encountered
 One of the challenges encountered involved gathering data from the dataset without including the live campaigns, or campaigns currently running. This was overcome by using Excel functions to filter the data for live campaigns and not include them in the analysis. Another one of the challenges that could be encountered in the dataset was that the majority of data points in the successful outcomes based on goals set were under $5000, showing that it is hard to get accurate data and a good sample size for pledged goal amounts over $5000. If we were to want this specific data, we should run a separate analysis showing the difference in goal amounts above and below $5000. We can show this with separate line graphs showing the visual difference when the separate dataset is used.
